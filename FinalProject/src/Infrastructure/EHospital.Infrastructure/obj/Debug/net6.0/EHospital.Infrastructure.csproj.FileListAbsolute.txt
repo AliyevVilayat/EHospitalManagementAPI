@@ -1,0 +1,17 @@
+C:\Users\Vilayat Aliyev\source\repos\FinalProject\src\Infrastructure\EHospital.Infrastructure\bin\Debug\net6.0\EHospital.Infrastructure.deps.json
+C:\Users\Vilayat Aliyev\source\repos\FinalProject\src\Infrastructure\EHospital.Infrastructure\bin\Debug\net6.0\EHospital.Infrastructure.dll
+C:\Users\Vilayat Aliyev\source\repos\FinalProject\src\Infrastructure\EHospital.Infrastructure\bin\Debug\net6.0\EHospital.Infrastructure.pdb
+C:\Users\Vilayat Aliyev\source\repos\FinalProject\src\Infrastructure\EHospital.Infrastructure\bin\Debug\net6.0\EHospital.Application.dll
+C:\Users\Vilayat Aliyev\source\repos\FinalProject\src\Infrastructure\EHospital.Infrastructure\bin\Debug\net6.0\EHospital.Domain.dll
+C:\Users\Vilayat Aliyev\source\repos\FinalProject\src\Infrastructure\EHospital.Infrastructure\bin\Debug\net6.0\EHospital.Application.pdb
+C:\Users\Vilayat Aliyev\source\repos\FinalProject\src\Infrastructure\EHospital.Infrastructure\bin\Debug\net6.0\EHospital.Domain.pdb
+C:\Users\Vilayat Aliyev\source\repos\FinalProject\src\Infrastructure\EHospital.Infrastructure\obj\Debug\net6.0\EHospital.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Vilayat Aliyev\source\repos\FinalProject\src\Infrastructure\EHospital.Infrastructure\obj\Debug\net6.0\EHospital.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vilayat Aliyev\source\repos\FinalProject\src\Infrastructure\EHospital.Infrastructure\obj\Debug\net6.0\EHospital.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Vilayat Aliyev\source\repos\FinalProject\src\Infrastructure\EHospital.Infrastructure\obj\Debug\net6.0\EHospital.Infrastructure.AssemblyInfo.cs
+C:\Users\Vilayat Aliyev\source\repos\FinalProject\src\Infrastructure\EHospital.Infrastructure\obj\Debug\net6.0\EHospital.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Vilayat Aliyev\source\repos\FinalProject\src\Infrastructure\EHospital.Infrastructure\obj\Debug\net6.0\EHospital.Infrastructure.csproj.CopyComplete
+C:\Users\Vilayat Aliyev\source\repos\FinalProject\src\Infrastructure\EHospital.Infrastructure\obj\Debug\net6.0\EHospital.Infrastructure.dll
+C:\Users\Vilayat Aliyev\source\repos\FinalProject\src\Infrastructure\EHospital.Infrastructure\obj\Debug\net6.0\refint\EHospital.Infrastructure.dll
+C:\Users\Vilayat Aliyev\source\repos\FinalProject\src\Infrastructure\EHospital.Infrastructure\obj\Debug\net6.0\EHospital.Infrastructure.pdb
+C:\Users\Vilayat Aliyev\source\repos\FinalProject\src\Infrastructure\EHospital.Infrastructure\obj\Debug\net6.0\ref\EHospital.Infrastructure.dll

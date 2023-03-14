@@ -1,0 +1,12 @@
+C:\Users\Vilayat Aliyev\source\repos\FinalProject\src\Core\EHospital.Domain\bin\Debug\net6.0\EHospital.Domain.deps.json
+C:\Users\Vilayat Aliyev\source\repos\FinalProject\src\Core\EHospital.Domain\bin\Debug\net6.0\EHospital.Domain.dll
+C:\Users\Vilayat Aliyev\source\repos\FinalProject\src\Core\EHospital.Domain\bin\Debug\net6.0\EHospital.Domain.pdb
+C:\Users\Vilayat Aliyev\source\repos\FinalProject\src\Core\EHospital.Domain\obj\Debug\net6.0\EHospital.Domain.csproj.AssemblyReference.cache
+C:\Users\Vilayat Aliyev\source\repos\FinalProject\src\Core\EHospital.Domain\obj\Debug\net6.0\EHospital.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vilayat Aliyev\source\repos\FinalProject\src\Core\EHospital.Domain\obj\Debug\net6.0\EHospital.Domain.AssemblyInfoInputs.cache
+C:\Users\Vilayat Aliyev\source\repos\FinalProject\src\Core\EHospital.Domain\obj\Debug\net6.0\EHospital.Domain.AssemblyInfo.cs
+C:\Users\Vilayat Aliyev\source\repos\FinalProject\src\Core\EHospital.Domain\obj\Debug\net6.0\EHospital.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Vilayat Aliyev\source\repos\FinalProject\src\Core\EHospital.Domain\obj\Debug\net6.0\EHospital.Domain.dll
+C:\Users\Vilayat Aliyev\source\repos\FinalProject\src\Core\EHospital.Domain\obj\Debug\net6.0\refint\EHospital.Domain.dll
+C:\Users\Vilayat Aliyev\source\repos\FinalProject\src\Core\EHospital.Domain\obj\Debug\net6.0\EHospital.Domain.pdb
+C:\Users\Vilayat Aliyev\source\repos\FinalProject\src\Core\EHospital.Domain\obj\Debug\net6.0\ref\EHospital.Domain.dll
